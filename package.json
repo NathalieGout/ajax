@@ -8,6 +8,7 @@
 		"react-dom": "^16.10.2",
 		"react-scripts": "3.2.0"
 	},
+	"homepage": "https://adrar-tps.github.io/ajax/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
