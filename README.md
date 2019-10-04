@@ -55,4 +55,4 @@ Intégration avec React :
 
 - Faire l'appel vers l'url 1 dans un component
 - Stocker le retour de cet appel dans le state
-- afficher la liste de chaque question de chaque élément de la collection  (utiliser la collection stockéedans le state pour faire un ```.map``` dans la partie jsx du component )
+- afficher la liste de chaque question de chaque élément de la collection  (utiliser la collection stockée dans le state pour faire un ```.map``` dans la partie jsx du component )
