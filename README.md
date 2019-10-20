@@ -7,6 +7,15 @@ https://developer.mozilla.org/fr/docs/Apprendre/JavaScript/Client-side_web_APIs/
 
 https://developers.google.com/web/ilt/pwa/lab-fetch-api
 
+
+++ 
+
+- https://www.grafikart.fr/tutoriels/promise-async-await-875
+
+- https://frank.taillandier.me/2017/03/23/comprendre-les-promesses-en-javascript/
+
+- https://oncletom.io
+
 Contexte
 ===
 
@@ -49,6 +58,9 @@ url2 https://opentdb.com/api.php?amount=5#
 
 5) Réécrire les différents appels avec la librairie ```axios```
 
+
+TP en ligne :
+https://next.tech/projects/9026598b-7582-4b58-bd13-cf4ceef74ab8?access_token=809968B39A5A2D7513800D9D3ACD7FFC&internal=false
 
 Intégration avec React :
 ==
