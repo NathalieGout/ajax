@@ -62,6 +62,8 @@ url2 https://opentdb.com/api.php?amount=5#
 TP en ligne :
 https://next.tech/projects/9026598b-7582-4b58-bd13-cf4ceef74ab8?access_token=809968B39A5A2D7513800D9D3ACD7FFC&internal=false
 
+<!-- tester :https://github.com/stevekane/promise-it-wont-hurt -->
+
 Intégration avec React :
 ==
 
